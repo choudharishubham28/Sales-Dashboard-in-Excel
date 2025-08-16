@@ -1,5 +1,9 @@
 # Sales-Dashboard-in-Excel
 
+you can check presentation on youtube as well:
+
+https://www.youtube.com/watch?v=P3Jk3Ukbhb4&t=3s
+
 Excel Sales Dashboard Case Study | Sales Analysis, Customer Segmentation & Returns Insights
 
 ✅ What You’ll Learn:
